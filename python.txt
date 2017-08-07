@@ -1,8 +1,0 @@
-Python Learning Plan
-
-1. Array indexing in numpy
-2. Get better at plotting with matplotlib
-3. Look in to pandas library
-4. Learning signal processing goals
-5. Import Excel spreadsheets
-6. Generators and co-routines
